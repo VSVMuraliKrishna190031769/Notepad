@@ -15,7 +15,7 @@ export default class Navigation extends Component {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav mr-auto">
                             <li className="nav-item">
-                                <NavLink exact className="nav-link" activeClassName="active" to="/">Notes</NavLink>
+                                <NavLink exact className="nav-link" activeClassName="active" to="/"></NavLink>MATERIAL
                             </li>
                             <li className="nav-item">
                                 <NavLink className="nav-link" activeClassName="active" to="/create">Create note</NavLink>
